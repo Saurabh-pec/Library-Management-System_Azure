@@ -49,7 +49,18 @@ It will enable you to offer access to the best e-books and journals for students
 #### Administration pages that would allow a "librarian" to manage a database containing information about the following:
      1.  Books present in the library
      2.  Books that are borrowed from the library
-     3.  Accounts associated with registered users of the site
+     3.  Accounts associated with registered users of the site 
+     
+     
+![img](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/Login.png?token=GHSAT0AAAAAABTKZBCOGWXY2ZTR74QD7RQAYSYOBLA)  
+![img2](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/HomePage.png?token=GHSAT0AAAAAABTKZBCOUB4S6MTEI4X4QHEKYSYOBIA)
+![img3](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/secondPage(Main_Page).png?token=GHSAT0AAAAAABTKZBCOQ5YOSNBUNOCBBJE2YSYOBSA)
+![img4](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/issueBook.png?token=GHSAT0AAAAAABTKZBCOUS22NE2VDCN6XEIOYSYOBOQ)
+![img5](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/AddBook.png?token=GHSAT0AAAAAABTKZBCOI5FHWNNW7XLMZ2RSYSYOA2Q)
+![img6](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/AddMember.png?token=GHSAT0AAAAAABTKZBCOEUI2FUPUYCYAMA2WYSYOA5Q) 
+![img7](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/AddMemberTable.png?token=GHSAT0AAAAAABTKZBCOTSRMOEFO4WMMK3EAYSYOBBQ) 
+![img8](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/BookTableSk.png?token=GHSAT0AAAAAABTKZBCOPYGSHYQKJCHJAFHUYSYOBEQ)
+
      
      
 #### User Page      
