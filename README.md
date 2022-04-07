@@ -18,7 +18,8 @@ This is a library management system project which demonstrates how various Azure
   9. Azure Storage Account
  10. Azure Active Directory
  <br> 
-### purpose:
+ 
+### purpose
 study material from the library to strengthen the teaching-learning process, prepare for online exams & develop skills is like a long-sort relationship.
 
 #### Benefits Of Cloud Based Library Management Software
@@ -40,4 +41,16 @@ And, since traditional teaching-learning classroom methods are being replaced wi
   24*7 work from anytime & anywhere!
 
 It will enable you to offer access to the best e-books and journals for students at their convenience.
+
+### Features
+#### Administration pages that would allow a "librarian" to manage a database containing information about the following:
+     1.  Books present in the library
+     2.  Books that are borrowed from the library
+     3.  Accounts associated with registered users of the site
+     
+     <br>
+#### User Page      
+     1. Pages that allow regular users to simply browse the site and search for books to borrow from the library.
+     2. Pages that allow regular users to borrow books fro the library.
+     3. A page that allows users to view borrowed materials from the library.
 
