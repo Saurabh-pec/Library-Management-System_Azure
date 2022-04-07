@@ -48,7 +48,7 @@ It will enable you to offer access to the best e-books and journals for students
      2.  Books that are borrowed from the library
      3.  Accounts associated with registered users of the site
      
-     <br>
+     
 #### User Page      
      1. Pages that allow regular users to simply browse the site and search for books to borrow from the library.
      2. Pages that allow regular users to borrow books fro the library.
