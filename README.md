@@ -2,8 +2,7 @@
 This is a library management system project which demonstrates how various Azure Cloud Services can be integrated into a .NET Core application.
 API: [https://librarysystem-api.azurewebsites.net/swagger](https://librarysystem-api.azurewebsites.net/swagger)
 ![image](https://user-images.githubusercontent.com/29853549/121651475-4b3cc880-cab8-11eb-8599-a62d7243ee99.png)
-Website: [https://librarysystem-mvc.azurewebsites.net](https://librarysystem-mvc.azurewebsites.net)
-![image](https://user-images.githubusercontent.com/29853549/121651510-55f75d80-cab8-11eb-9409-077b39902fa0.png)
+
 ### This project contains 2 major sections we built using ASP.NET C#:
 
   1. Backend-APIs
@@ -51,6 +50,11 @@ It will enable you to offer access to the best e-books and journals for students
      2.  Books that are borrowed from the library
      3.  Accounts associated with registered users of the site 
      
+#### User Page      
+     1. Pages that allow regular users to simply browse the site and search for books to borrow from the library.
+     2. Pages that allow regular users to borrow books fro the library.
+     3. A page that allows users to view borrowed materials from the library.
+     
      
 ![img](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/Login.png?token=GHSAT0AAAAAABTKZBCOGWXY2ZTR74QD7RQAYSYOBLA)  
 ![img2](https://raw.githubusercontent.com/Saurabh-pec/Library-Management-System_Azure/main/F-/HomePage.png?token=GHSAT0AAAAAABTKZBCOUB4S6MTEI4X4QHEKYSYOBIA)
@@ -63,8 +67,5 @@ It will enable you to offer access to the best e-books and journals for students
 
      
      
-#### User Page      
-     1. Pages that allow regular users to simply browse the site and search for books to borrow from the library.
-     2. Pages that allow regular users to borrow books fro the library.
-     3. A page that allows users to view borrowed materials from the library.
+
 
